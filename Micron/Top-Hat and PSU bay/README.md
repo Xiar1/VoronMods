@@ -39,6 +39,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
     -2-4 4010 Axial Fans
     -8-16 m3x12 BHCS Screws
     -1 ECAS04
+    -1 290mm x 290mm x 3mm Solid acrylic or abs panel for the PSU bay cover
     
 ### Printed Parts:
   
