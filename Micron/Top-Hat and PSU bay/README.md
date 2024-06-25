@@ -56,4 +56,6 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
     -PSU Panel Clamp x4
     -Top-Hat and PSU Corner Panel Clamp x4
     -Accent x16
+
+    -Optional- PSU Front w Displays
     
