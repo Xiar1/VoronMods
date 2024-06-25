@@ -6,7 +6,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
 
 ## Parts required for Top-Hat Only:
 
-<img src="Pictures/Top-Hat.png" height="300" />
+<img src="Pictures/Top-Hat Only.png" height="400" />
 
 ### Hardware:
 
@@ -28,7 +28,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
 
 ## Parts required for Top-Hat and PSU Bay:
 
-<img src="Pictures/Top-Hat and PSU bay.png" height="400" />
+<img src="Pictures/PSU Bay and Top-Hat.PNG" height="400" />
 
 ### Hardware:
   
