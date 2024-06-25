@@ -1,11 +1,14 @@
-Parts required for Top-Hat Only:
+## Parts required for Top-Hat Only:
 
-  Hardware:
+### Hardware:
+
     -32 Standard Voron Heatsets
     -16 m3x8  BHCS Screws
     -16 m3x12 BHCS Screws
     -1 ECAS04
-  Printed Parts:
+    
+### Printed Parts:
+  
     -Top-Hat Side x3
     -Top-Hat Back x1
     -Top-Hat Corner x4
@@ -15,16 +18,19 @@ Parts required for Top-Hat Only:
     -Top-Hat and PSU Corner Panel Clamp x4
     -Accent x8
 
-Parts required for Top-Hat and PSU Bay:
+## Parts required for Top-Hat and PSU Bay:
 
-  Hardware:
+### Hardware:
+  
     -68 Standard Voron Heatsets
     -16 m3x8  BHCS Screws
     -36 m3x12 BHCS Screws
     -2 PG9 Cable Glands
     -2-4 4010 Axial Fans
     -1 ECAS04
-  Printed Parts:
+    
+### Printed Parts:
+  
     -Top-Hat Side x3
     -Top-Hat Back x1
     -Top-Hat Corner x4
