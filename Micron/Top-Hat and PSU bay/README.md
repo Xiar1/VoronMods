@@ -1,3 +1,5 @@
+Top-Hat and/or PSU Bay mod for a Micron+. Watch the print orientation as parts were not exported in the correct orientations for printing. The corners are designed to be printed upside down and thusly have a 45 degree camfer on the bottom and a fillet on the top. 
+
 ## Parts required for Top-Hat Only:
 
 <img src="Pictures/Top-Hat.png" height="300" />
