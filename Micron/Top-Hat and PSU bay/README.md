@@ -1,5 +1,7 @@
 ## Parts required for Top-Hat Only:
 
+<img src="Pictures/Top-Hat.png" height="300" />
+
 ### Hardware:
 
     -32 Standard Voron Heatsets
@@ -19,6 +21,8 @@
     -Accent x8
 
 ## Parts required for Top-Hat and PSU Bay:
+
+<img src="Pictures/Top-Hat and PSU bay.png" height="400" />
 
 ### Hardware:
   
