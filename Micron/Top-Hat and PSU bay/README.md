@@ -12,7 +12,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
 
     -32 Standard Voron Heatsets
     -16 m3x8  BHCS Screws
-    -16 m3x12 BHCS Screws
+    -16 m3x16 BHCS Screws
     -1 ECAS04
     
 ### Printed Parts:
@@ -34,9 +34,10 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
   
     -68 Standard Voron Heatsets
     -16 m3x8  BHCS Screws
-    -36 m3x12 BHCS Screws
+    -36 m3x16 BHCS Screws
     -2 PG9 Cable Glands
     -2-4 4010 Axial Fans
+    -8-16 m3x12 BHCS Screws
     -1 ECAS04
     
 ### Printed Parts:
