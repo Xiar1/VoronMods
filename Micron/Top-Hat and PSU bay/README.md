@@ -26,6 +26,10 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
     -Top-Hat and PSU Corner Panel Clamp x4
     -Accent x8
 
+### Assembly video for Top-Hat only:
+
+    https://github.com/Xiar1/VoronMods/blob/main/Micron/Top-Hat%20and%20PSU%20bay/Pictures/Top-Hat%20and%20PSU%20bay%20v17.avi
+
 ## Parts required for Top-Hat and PSU Bay:
 
 <img src="Pictures/PSU Bay and Top-Hat.PNG" height="400" />
