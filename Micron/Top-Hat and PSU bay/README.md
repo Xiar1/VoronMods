@@ -28,7 +28,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
 
 ### Assembly video for Top-Hat only:
 
-<img src="Pictures/Top-Hat and PSU Bay v17.mp4" height="400" />
+https://github.com/Xiar1/VoronMods/assets/20452088/208a05a2-a327-4cc0-bd4e-8c9759a04267
 
 ## Parts required for Top-Hat and PSU Bay:
 
