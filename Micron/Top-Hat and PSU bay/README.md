@@ -28,6 +28,7 @@ All side pieces are designed with multicolor printing in mind. In the slicer rig
 
 ### Assembly video for Top-Hat only:
 
+<img src="Pictures/Top-Hat and PSU Bay v17.mp4" height="400" />
 
 ## Parts required for Top-Hat and PSU Bay:
 
